@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shreyapomodoro/static/css/main.55da03f4.css",
-    "main.js": "/shreyapomodoro/static/js/main.8e717ef6.js",
+    "main.js": "/shreyapomodoro/static/js/main.5627a8f3.js",
     "static/js/787.9b1b9b44.chunk.js": "/shreyapomodoro/static/js/787.9b1b9b44.chunk.js",
     "index.html": "/shreyapomodoro/index.html",
     "main.55da03f4.css.map": "/shreyapomodoro/static/css/main.55da03f4.css.map",
-    "main.8e717ef6.js.map": "/shreyapomodoro/static/js/main.8e717ef6.js.map",
+    "main.5627a8f3.js.map": "/shreyapomodoro/static/js/main.5627a8f3.js.map",
     "787.9b1b9b44.chunk.js.map": "/shreyapomodoro/static/js/787.9b1b9b44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55da03f4.css",
-    "static/js/main.8e717ef6.js"
+    "static/js/main.5627a8f3.js"
   ]
 }
