@@ -9,11 +9,11 @@ const Login = () => {
       index: 1,
       name: 'Baibhav Saxena',
       userID: 'BS1',
-      password: 'Baibhav@123',
+      password: 'Shreyyuuu@123',
     },
     {
       index: 2,
-      name: 'SS',
+      name: 'Shreya Shukla',
       userID: 'SS1',
       password: 'Baibhav@123',
     },
